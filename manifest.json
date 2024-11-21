@@ -1,6 +1,4 @@
-  "permissions": [
-   "activeTab"
-]{
+{
   "manifest_version": 3,
   "name": "Shortcut Extensions",
   "description": "Base Level Extension",
