@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Shortcut Extensions",
+  "description": "Base Level Extension",
+  "version": "1.0",
+  "action": {
+    "default_popup": "test.html",
+    "default_icon": "test_extensions.png"
+  }
+}
